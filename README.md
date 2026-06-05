@@ -6,3 +6,4 @@ crime data.csv contains crimes without city but they are all within karnataka
 
 all datasets extracted from kaggle 
  other ka district datasets are extracted from opencity website liciense to be attached soon
+this website has data for all the crime scences happening. and the monthly review that can be used to understand the working of the crimes including the review stat tools on karnataka ofiicial website
