@@ -5,3 +5,4 @@ archive(1).zip contains data wo location almost 1mb of data sets and just crime
 crime data.csv contains crimes without city but they are all within karnataka
 
 all datasets extracted from kaggle 
+ other ka district datasets are extracted from opencity website liciense to be attached soon
